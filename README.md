@@ -16,8 +16,8 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
+<a href="https://avaloniaui.net/" target="_blank" rel="noreferrer"> 
+  <img src="https://avatars2.githubusercontent.com/u/14075148?s=200&v=4" alt="avaloniaui" width="40" height="40"/> 
 </a>
   
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
@@ -28,4 +28,9 @@
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postgresql.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 </p>
-  
+
+<br/><br/>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizme-m&show_icons=true&theme=onedark&locale=en&layout=compact" alt="wizme-m" /></p>
+
