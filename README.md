@@ -9,7 +9,7 @@
   - Telegram tag **@ya_russk1j** ([chat with me!](https://t.me/ya_russk1j))
   - Email **timkin.moxim@mail.ru**
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -24,3 +24,9 @@
 <a href="https://avaloniaui.net/"> <img src="https://avatars2.githubusercontent.com/u/14075148?s=200&v=4" alt="Avalonia UI" width="40" height="40" /> </a>
 <a href="https://flutter.dev/"> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="Flutter" width="40" height="40" /> </a>
  
+ ## Statistics:
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WizMe-M&theme=tokyonight)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizMe-M&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizMe-M&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
