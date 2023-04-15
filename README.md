@@ -6,7 +6,7 @@
 
 - 👨‍🎓 I’m currently studying at 4th course **MPT**
 - 📫 How to reach me: 
-  - Telegram tag **@postdemiurge** ([chat with me!](https://t.me/postdemiurge))
+  - Telegram **@postdemiurge** ([chat with me!](https://t.me/postdemiurge))
   - Email **timkin.moxim@mail.ru**
 
 ## Languages and Tools:
@@ -25,7 +25,8 @@
  
  ## Statistics:
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WizMe-M&theme=tokyonight)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizMe-M&theme=tokyonight&PAT1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WizMe-M&theme=onedark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizMe-M&layout=compact&theme=tokyonight&PAT1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizMe-M&theme=onedark&PAT1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizMe-M&layout=compact&theme=onedark&PAT1)](https://github.com/anuraghazra/github-readme-stats)
