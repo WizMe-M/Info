@@ -4,10 +4,10 @@
 
 ![WizMe-M](https://komarev.com/ghpvc/?username=wizme-m&label=PROFILE+VIEWS&color=red&style=plastic)
 
-- 👨‍🎓 Studied in G.V. Plekhanov MPT
+- 👨‍🎓 Studied and got qualified in G.V. Plekhanov MPT
 - 📫 How to contact me: 
   - Telegram: **[@postdemiurge](https://t.me/postdemiurge)**
-  - Email: **[timkin.moxim@mail.ru](mailto:timkin.moxim@mail.ru)**
+  - Email: **timkin.moxim@mail.ru**
 
 ## Languages and Tools:
 
