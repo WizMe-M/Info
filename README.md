@@ -4,10 +4,10 @@
 
 ![WizMe-M](https://komarev.com/ghpvc/?username=wizme-m&label=PROFILE+VIEWS&color=red&style=plastic)
 
-- 👨‍🎓 I’m currently studying at 4th course **MPT**
-- 📫 How to reach me: 
-  - Telegram **@postdemiurge** ([chat with me!](https://t.me/postdemiurge))
-  - Email **timkin.moxim@mail.ru**
+- 👨‍🎓 Studied in G.V. Plekhanov MPT
+- 📫 How to contact me: 
+  - Telegram: **[@postdemiurge](https://t.me/postdemiurge)**
+  - Email: **[timkin.moxim@mail.ru](mailto:timkin.moxim@mail.ru)**
 
 ## Languages and Tools:
 
